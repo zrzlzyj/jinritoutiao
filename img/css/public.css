@@ -1,0 +1,12 @@
+*{
+	margin: 0;
+	text-decoration: none;
+	padding: 0;/* 清除ul的默认格式 */
+	list-style: none;
+	box-sizing: border-box;   /* 只解析到内容，加了padding之后无需更改盒子大小 */
+}
+/* img默认有border大小，需要清除 */
+img{
+	border: 0;
+	display: block;
+}
