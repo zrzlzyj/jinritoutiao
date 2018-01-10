@@ -1,0 +1,90 @@
+.shang{
+	width: 100%;
+	height: 11.66rem;
+	background-color: yellow;
+	position: relative;
+}
+.img1{
+	width: 100%;
+	height: 11.66rem;
+}
+
+.img2{
+	width: 5.14rem;
+	height: 0.57rem;
+	position: absolute;
+	left: 1.12rem;
+	bottom: 2.1rem;
+}
+.p1{
+	font-size: .08rem;
+	color: rgba(0, 0, 0, .4);
+	position: absolute;
+	left: 1.9rem;
+	bottom: 1.73rem;
+}
+.p1-1{
+	left: 2.11rem;
+}
+.img3{
+	width: 0.13rem;
+	height: 0.13rem;
+	position: absolute;
+	left: 3.67rem;
+	bottom: 1.41rem;
+}
+.p2{
+	font-size: .24rem;
+	color: rgba(0, 0, 0, .4);
+	position: absolute;
+	left: 1.58rem;
+	bottom: 0.9rem;
+	font-family: '苹方';
+	font-weight: bold;
+	letter-spacing: .015rem;
+}
+.p3{
+	font-size: .13rem;
+	letter-spacing: .31rem;
+	color: #d9d9ff;
+	position: absolute;
+	left: 2.4rem;
+	bottom: 0.58rem;
+}
+
+.xia{
+	width: 100%;
+	height: 1.68rem;
+	background-color: #807fff;
+	position: relative;
+}
+.xia-2{
+	background-color: #66c626;
+}
+.xia ul{
+	width: .96rem;
+	height: .14rem;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	justify-content: space-around;
+}
+.xia ul li{
+	width: .14rem;
+	height: 100%;
+	background-color: #cbcaff;
+	border-radius: 1rem;
+
+}
+.xia ul li:nth-child(1){
+	width: .49rem;
+	height: 100%;
+	background-color: #e6e5ff;
+	border-radius: 1rem;
+}
